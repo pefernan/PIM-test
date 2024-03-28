@@ -1,0 +1,19 @@
+{
+    "name" : "pim test",
+    "processMigrationPlan" : {
+        "sourceProcessDefinition" : {
+            "processId" : "ht",
+            "processVersion" : "1"
+        },
+        "targetProcessDefinition" : {
+            "processId" : "ht2",
+            "processVersion" : "2"
+        },
+        "nodeInstanceMigrationPlan" : [
+            {
+                "sourceNodeId" : "_F404A9B9-5F45-445A-8692-78B7212390C6",
+                "targetNodeId" : "_F404A9B9-5F45-445A-8692-78B7212390C6"
+            }
+        ]
+    }
+}
